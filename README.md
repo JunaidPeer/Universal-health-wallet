@@ -30,8 +30,11 @@ The Universal Health Wallet would ensure the initiation of  treatment for the pa
 
 # RoadMap:
 1.Integration with health care facilities and setting them up as Verified Hospital network.
+
 2.Running a side-chain were users can share their data to the insurance companies by their will and earn decentralized funds/payments.
+
 3.Integration with Unstoppable Domain's, allowing users to login with their ENS.
+
 4.Future Integration include Connection with BrightID, Safelvalut, Lit Protocol, etc.
 
 # Crowdfunding

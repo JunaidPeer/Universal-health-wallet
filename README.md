@@ -27,3 +27,13 @@ Each token(records in our case) will be minted by the health care facilities to 
 # Results & Conclusion:
 
 The Universal Health Wallet would ensure the initiation of  treatment for the patient on time, saving a life, avoiding the cumbersome process of record creation, accessibility and authorization.
+
+# RoadMap:
+1.Integration with health care facilities and setting them up as Verified Hospital network.
+2.Running a side-chain were users can share their data to the insurance companies by their will and earn decentralized funds/payments.
+3.Integration with Unstoppable Domain's, allowing users to login with their ENS.
+4.Future Integration include Connection with BrightID, Safelvalut, Lit Protocol, etc.
+
+# Crowdfunding
+Help the project grow by helping in the grants-
+https://grants.gtcdao.net/#/dgrants/69
